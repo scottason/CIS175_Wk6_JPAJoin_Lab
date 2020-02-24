@@ -5,9 +5,9 @@
 		<class>model.ListItem</class>
 		<properties>
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
-			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://cis175.c9ghazzeswvv.us-east-2.rds.amazonaws.com/shopping"/>
-			<property name="javax.persistence.jdbc.user" value="admin"/>
-			<property name="javax.persistence.jdbc.password" value="DeaconBlues098"/>
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/shopping"/>
+			<property name="javax.persistence.jdbc.user" value="root"/>
+			<property name="javax.persistence.jdbc.password" value="M6zdcR64&amp;7"/>
 		</properties>
 	</persistence-unit>
 </persistence>
